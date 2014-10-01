@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: blogger_backend_development
+
+test:
+  adapter: postgresql
+  database: blogger_backend_test
