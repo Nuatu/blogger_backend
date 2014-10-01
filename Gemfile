@@ -7,6 +7,8 @@ gem 'uglifier'
 gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
+gem 'rest-client'
+gem 'active_model_serializers'
 
 group :development do
   gem 'better_errors'
